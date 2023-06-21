@@ -1,3 +1,7 @@
+
+![typescript](https://github.com/anshuvermaa/pokedex/assets/96846551/98c06247-d61c-46c1-8b83-6542379af02a)
+
+
 VIDEO
 
 
