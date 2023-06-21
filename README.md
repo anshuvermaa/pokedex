@@ -1,3 +1,10 @@
+VIDEO
+
+
+https://github.com/anshuvermaa/pokedex/assets/96846551/fb8831bb-0bcb-4ab1-b2e7-735988e0425d
+
+
+
 SCREENSHOTS
 ![image](https://github.com/anshuvermaa/pokedex/assets/96846551/6f271174-ebcc-42c9-ab54-3cc4ac3a1a25)
 ![image](https://github.com/anshuvermaa/pokedex/assets/96846551/e82d893d-9f7b-4d90-8436-599e7f789c8e)
