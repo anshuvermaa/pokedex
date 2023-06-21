@@ -1,12 +1,12 @@
 SCREENSHOTS
-![image](https://github.com/anshuvermaa/pokedex/assets/96846551/c4108b4a-bf49-410f-8c70-681fae9e67c3)
-![image](https://github.com/anshuvermaa/pokedex/assets/96846551/666d8ba4-0f09-4abe-8a52-a820ba607402)
 ![image](https://github.com/anshuvermaa/pokedex/assets/96846551/6f271174-ebcc-42c9-ab54-3cc4ac3a1a25)
 ![image](https://github.com/anshuvermaa/pokedex/assets/96846551/e82d893d-9f7b-4d90-8436-599e7f789c8e)
 ![image](https://github.com/anshuvermaa/pokedex/assets/96846551/e0169cfa-f082-4929-a5de-868cda782358)
 ![image](https://github.com/anshuvermaa/pokedex/assets/96846551/31e03dc5-3a05-4e47-9b3e-9ce6c7e44ebd)
 ![image](https://github.com/anshuvermaa/pokedex/assets/96846551/218ab103-30a9-48e6-a293-1789174bc91a)
 ![image](https://github.com/anshuvermaa/pokedex/assets/96846551/d04ae457-72cd-42a9-9496-da1983f8063b)
+![image](https://github.com/anshuvermaa/pokedex/assets/96846551/c4108b4a-bf49-410f-8c70-681fae9e67c3)
+![image](https://github.com/anshuvermaa/pokedex/assets/96846551/666d8ba4-0f09-4abe-8a52-a820ba607402)
 
 
 
